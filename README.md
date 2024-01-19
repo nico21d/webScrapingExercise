@@ -6,3 +6,6 @@ and by titles with less or equal than 5 words ordered by points.
 
 Each entry is stored in an object Entry that will contain its title, points and number of comments.
 The code could be changed to store the entries to a file.
+
+To run the code, you will need to have a recent version of Python and have installed 
+the package bs4. Once that is done, running py ./scrapper.py will run the code.
